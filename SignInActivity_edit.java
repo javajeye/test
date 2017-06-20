@@ -24,3 +24,4 @@ import ws.coverme.im.model.constant.Constants.Extra;
 import ws.coverme.im.model.constant.Enums;
 import ws.coverme.im.model.file_transfer.TransferManager;
 import ws.coverme.im.model.hide_app.HideAppUtil;
+main
